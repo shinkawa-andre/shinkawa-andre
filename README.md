@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosandredias)
 
-![Shinkawa GitHub stats](https://github-readme-stats.vercel.app/api?username=shinkawa-andre&show_icons=true&theme=radical)
+
 
 ## Tecnologias que eu estudo
 
